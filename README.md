@@ -4,9 +4,9 @@
 
 ## NOW
 
-- ✨ Last personal project [React Fruits](https://reactfruits.vercel.app/);
-- ⚙️ Last working project [Le Journal Intime](https://lejournalintime.com/);
-- 🕹️ Last hobby project [Forbudlys](https://tom-ahawk.itch.io/forbudlys)
+- ✨ Last personal project <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a>
+- ⚙️ Last working project <a href="https://lejournalintime.com/" target="_blank">Le Journal Intime</a>
+- 🕹️ Last hobby project <a href="https://tom-ahawk.itch.io/forbudlys" target="_blank">Forbudlys</a>
 
 ## BIO
 
