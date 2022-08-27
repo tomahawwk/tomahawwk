@@ -2,18 +2,24 @@
 
 #### I'm a Frontend Developer working in Saint P., Russia.
 
-## NOW
+### Now
 
-- ✨ Last personal project <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a>
-- ⚙️ Last working project <a href="https://lejournalintime.com/" target="_blank">Le Journal Intime</a>
-- 🕹️ Last hobby project <a href="https://tom-ahawk.itch.io/forbudlys" target="_blank">Forbudlys</a>
+- ✨ Last personal project: <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a> (Fruit delivery service on react)
+- ⚙️ Last working project: <a href="https://lejournalintime.com/" target="_blank">Le Journal Intime</a> (Online store of women's underwear)
+- 🕹️ Last hobby project: <a href="https://tom-ahawk.itch.io/forbudlys" target="_blank">Forbudlys</a> (Winner in "Best solo game" on SibGameJam 2022)
 
-## BIO
+### About me
 
 - 🏢 I'm currently working at **its.agency**
 - 🌱 Learning all about **React**
+- 🔍 Looking for a job as a React developer
 
-## Technologies
+### Reach me
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&labelColor=white)](https://t.me/tom_ahawk)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=white&logoColor=blue)](https://www.linkedin.com/in/egor-stulenkov-29867523a/)
+
+### Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
