@@ -12,7 +12,7 @@
 
 - 🏢 I'm currently working at **its.agency**
 - 🌱 Learning all about **React**
-- 🔍 Looking for a job as a React developer
+- 🔍 Looking for a job as a **React developer**
 
 ### Reach me
 
