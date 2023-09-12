@@ -4,7 +4,7 @@
 
 ### Now
 
-- ⚙️ Last working project: <a href="https://reviero.com/" target="_blank">Reviero</a> (Investment platform for Spanish customer)
+- ⚙️ Last working project: <a href="https://reviero.com/" target="_blank">Reviero</a> (Investment platform for Spanish customer on React(Next)/Typescript)
 - ✨ Last personal project: <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a> (Fruit delivery service on react)
 - 🕹️ Last hobby project: <a href="https://tom-ahawk.itch.io/forbudlys" target="_blank">Forbudlys</a> (Winner in "Best solo game" on SibGameJam 2022)
 
