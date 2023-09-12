@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Egor, Frontend Developer. Сurrently in Belgrade, Serbia.
+#### I'm Egor, Frontend Developer. Сurrently live in Belgrade, Serbia.
 
 ### Now
 
