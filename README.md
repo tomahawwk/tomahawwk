@@ -4,14 +4,9 @@
 
 ### Now
 
-- ✨ Last personal project: <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a> (Fruit delivery service on react)
 - ⚙️ Last working project: <a href="https://reviero.com/" target="_blank">Reviero</a> (Investment platform for Spain)
+- ✨ Last personal project: <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a> (Fruit delivery service on react)
 - 🕹️ Last hobby project: <a href="https://tom-ahawk.itch.io/forbudlys" target="_blank">Forbudlys</a> (Winner in "Best solo game" on SibGameJam 2022)
-
-### Test React projects
-
-- ✔️ TODOList: <a href="https://enot-todo.vercel.app/" target="_blank">Enot TODOlist</a> (React Query, Context, MUI, Typescript)
-- 🖥️ Admin panel: <a href="https://dfa-media-test.vercel.app/" target="_blank">DFA Media panel</a> (Redux Toolkit, React Router, Typescript)
 
 ### About me
 
