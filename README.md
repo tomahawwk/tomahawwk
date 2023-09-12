@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer working in Saint P., Russia.
+#### I'm a Frontend Developer. Сurrently in Belgrade, Serbia.
 
 ### Now
 
 - ✨ Last personal project: <a href="https://reactfruits.vercel.app/" target="_blank">React Fruits</a> (Fruit delivery service on react)
-- ⚙️ Last working project: <a href="https://lejournalintime.com/" target="_blank">Le Journal Intime</a> (Online store of women's underwear)
+- ⚙️ Last working project: <a href="https://reviero.com/" target="_blank">Reviero</a> (Investment platform for Spain)
 - 🕹️ Last hobby project: <a href="https://tom-ahawk.itch.io/forbudlys" target="_blank">Forbudlys</a> (Winner in "Best solo game" on SibGameJam 2022)
 
 ### Test React projects
